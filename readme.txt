@@ -126,7 +126,7 @@ Yes! WooCommerce will work with any theme, but may require some styling. Please 
 
 = Where can I request new features, eCommerce themes, and extensions? =
 
-You can vote on and request new features and extensions on our [WooIdeas board](http://ideas.woocommerce.com/forums/133476-woocommerce?utm_source=wp%20org%20repo%20listing&utm_content=3.6)
+You can vote on and request new features and extensions on our [WooIdeas board](https://ideas.woocommerce.com/forums/133476-woocommerce?utm_source=wp%20org%20repo%20listing&utm_content=3.6)
 
 = Where can I report bugs or contribute to the project? =
 
